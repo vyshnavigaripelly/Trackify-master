@@ -2,7 +2,7 @@
 # Trackify
 
 
-#### Web Link: https://trackify.duckdns.org
+
 | Admin Credentials | Employee Credentials |
 |-----------------------------------------|-----------------------------------------|
 | Email: testadmin@gmail.com |  Email: testemployee@gmail.com |
